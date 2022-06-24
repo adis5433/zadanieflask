@@ -1,0 +1,25 @@
+
+body{
+    margin-left: 20px;
+}
+h1{
+    background-color: dimgray;
+}
+
+
+h2{
+    font-size: 70px;
+    color:darkblue;
+}
+
+.introduce{
+    font-size: 30px;
+}
+
+div#content li {
+    font-size: 20px;
+}
+
+button#send{
+    margin-left: 15px;
+}
